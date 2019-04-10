@@ -1,0 +1,18 @@
+ul {
+  color: red;
+}
+
+#countries {
+  background-color: black;
+  color: white;
+}
+
+body {
+  margin: 10%;
+  margin-top: 10%;
+  font-family: monospace;
+}
+
+img {
+  resize: horizontal;
+}
